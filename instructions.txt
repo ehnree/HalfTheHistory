@@ -1,0 +1,10 @@
+Instructions for starting web server
+
+1) Fork/Clone Repo
+2) gem install bundler
+3) bundle install
+4) update _config.yml
+
+running server
+1) bundle exec jekyll build
+2) bundle exec jekyll serve
