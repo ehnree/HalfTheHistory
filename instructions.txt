@@ -11,3 +11,18 @@ running server
 
 development
 1) bundle exec jekyll serve --config _config.yml,_config_dev.yml
+
+Changing colors:
+_sass/foundation-components/_01_settings_colors.scss
+
+Create new pages:
+pages/pages-root-folder/
+
+Blog posts:
+blog/
+
+Images:
+images/
+
+Nav bar:
+_data/navigation.yml

@@ -1,10 +1,13 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
-subheadline:  "Multi-Device Layouts"
+title:  "About Half the History"
+subheadline:  ""
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+    title: About HTH
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
 permalink: "/about/"
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
