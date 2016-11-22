@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Feeling Responsive'
+title: 'Half The History'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A Flexible Theme for Jekyll'
@@ -42,7 +42,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo_white.png"
 
 # Gems
 gems:
