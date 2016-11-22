@@ -1,0 +1,22 @@
+List of content:
+	Logo
+	Favicon
+	Home:
+		Banner page (changing?)
+	Creative Team:
+		Bios
+		Photos of people
+	Production Journal:
+		Blog Posts
+			Text
+			Images
+	See the Videos:
+		Video links
+		Descriptions
+	About Page:
+		Images
+		Text
+	Contact:
+		Text
+		Form
+		Email

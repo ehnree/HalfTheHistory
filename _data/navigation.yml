@@ -6,6 +6,10 @@
 #   url: "/getting-started/"
 #   side: left
 
+- title: "About"
+  url: "/about/"
+  side: left
+
 - title: "See the Videos"
   url: "/films/"
   side: left
