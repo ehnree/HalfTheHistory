@@ -7,9 +7,9 @@ teaser: "See works filmed by the Half The History Team."
 categories:
     - creative-team
 header:
-    image: header_unsplash_2-970x.jpg
+    image: creative-team/hth_group.jpg
     pattern: pattern_concrete.jpg
-    caption: Caption for team 
+    caption: HTH team and crew after a long day of filming. 
     caption_url: https://unsplash.com/
 permalink: "/creative-team/"
 ---
