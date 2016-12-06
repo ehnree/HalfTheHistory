@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Belinda\'s Petition"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: images/belinda.jpg
+  image: /images/belinda.jpg
   text: 'Belinda, born in Africa, kidnapped, and brought to America, petitioned the Massachusetts Legislature in 1783 for her Freedom. <em>Belindas petition</em> conveys the inhumanity of the institution of slavery and the mental and physical confinement that a slave experiences.'
 widget2:
   title: "Half the History"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "Elaine de Kooning - Behind the Scenes"
   url: 'https://github.com/Phlow/feeling-responsive'
-  image: images/widget-github-303x182.jpg
+  image: /images/widget-github-303x182.jpg
   text: 'Place description here of the Elaine de Kooning.'
 #
 # Use the call for action to show a button on the frontpage
