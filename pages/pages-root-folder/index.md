@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: hola.gif
+  image_fullwidth: helen-frankenthaller.jpg
 widget1:
   title: "Belinda\'s Petition"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -16,7 +16,7 @@ widget2:
   title: "Half the History"
   url: 'https://www.youtube.com/watch?v=RRKeeW-55W8'
   text: '<em>Half the History </em> highlights under-told stories of women in American history. Become part of the movement to include equality in history books, sites, historic preservation, and media. Be inspired by one of the women in this video or on the HTH website or Facebook page. Produced by Five Sisters Productions (www.fivesisters.com) with Tufts Production Team.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="images/hth.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="images/hth-front.gif" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Elaine de Kooning - Behind the Scenes"
   url: 'https://github.com/Phlow/feeling-responsive'
