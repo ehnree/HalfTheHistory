@@ -29,7 +29,7 @@ permalink: "/creative-team/"
 
 	<div class="row">
 	  <div class="large-6 columns">
-	      <img src="/images/creative-team-jennifer.jpg">
+	      <img src="{{ site.urlimg }}creative-team-jennifer.jpg">
 	  </div>
 	  <div class="large-6 columns">
 	  	<h3> Jennifer Burton </h3>
