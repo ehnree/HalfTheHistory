@@ -22,47 +22,51 @@ permalink: "/creative-team/"
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
 
-<!-- <div class="row">
+<div class="show-for-large-up">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.small-12.columns -->
+    </div>
+
+
+<div class="row">
 	  <div class="large-6 columns">
 	      <img src="{{ site.urlimg }}creative-team-jennifer.jpg" align="middle">
 	  </div>
 	  <div class="large-6 columns">
 	  	<h3> Jennifer Burton </h3>
 	  	Jennifer Burton is a filmmaker and helms the independent film company Five Sisters Productions. Her films include Kings, Queens, & In-Betweens (a documentary on gender, identity, and drag, 2016), The Happiest Day of His Life (MTV/Logo) and Manna From Heaven (MGM/SONY). Corporate projects include the "Your Ford Story" campaign of mini-documentary commercials for Ford Motor Company and film/storytelling workshops for L Brands, Inc. Working with Tufts student filmmakers, she has produced the Half the History project, a series of short films on women in American history, and Old Guy, as comedic take on agism in the media. Her publications include Call and Response: Key Debates in African American Studies (W. W. Norton), co-edited with Henry Louis Gates, Jr., and The Prize Plays and Other One-Acts: Zora Neale Hurston, Eulalie Spence, Marita Bonner, and Others(Macmillan/G.K. Hall). Burton earned her Ph.D. from Harvard University in English and American Literature, writing her dissertation on hope in American literature and film.
-	  </div>
-	</div>
+	  </div><!-- /.large-6.columns -->
+</div><!-- /.row -->
 	<br>
 
 	<div class="row">
 	  <div class="large-6 columns">
-		<h3> Wayside </h3>
+		<h3> Another important person here </h3>
 	  	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.	  </div>
 	  <div class="large-6 columns">
 	      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=Width+470+Pixel">
-	  </div>
-	</div> -->
-
-<!-- <div class="row">
-    <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}/about/emma-painting.png" alt="" height="200">
-    </div>-->
+	  </div><!-- /.large-6.columns -->
+	</div><!-- /.row -->
+		<br>
 
 <div class="row">
-    <div class="medium-3 columns">
+    <div class="medium-4 columns">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+    I'm less important
     </div><!-- /.medium-3.columns -->
 
-    <div class="medium-3 columns">
+    <div class="medium-4 columns">
       <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+      I'm less important
     </div><!-- /.medium-3.columns -->
 
-    <div class="medium-3 columns">
+    <div class="medium-4 columns">
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+      I'm less important
     </div><!-- /.medium-3.columns -->    
-    <div class="medium-3 columns">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
-    </div><!-- /.medium-3.columns -->
 
+</div><!-- /.row -->
 </div><!-- /.row -->
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
