@@ -27,7 +27,7 @@
 
 - title: "Production Journal"
   # url: "/headers/"
-  url: "/blog/archive/"
+  url: "/blog/"
   side: left
   # dropdown:
   # - title: "Header with Full-Width-Image"

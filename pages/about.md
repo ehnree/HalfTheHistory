@@ -15,12 +15,7 @@ permalink: "about/"
 
 The *Half the History* Project is a multi-media project combining new short films, curated web content, and educational outreach. It explores the under-told stories of American women. This project brings a unique opportunity to connect the myriad fragments of women’s stories and the people engaged with this history into a new and widely accessible framework with the potential to enrich public understanding of our history and the possibilities for our future.
 
-IMG_8306 The Half the History Project is being produced by Jennifer Burton/Five Sisters Productions along with a team of students in her Advanced Production Seminar for the fall semester. They are collaborating with local and national organizations to launch Half the History, including the National Collaborative for Women’s History Sites and the Minute Man National Park.
-
-IMG_8926Last year, the HTH production team created a short film to launch Half the History, featuring over seventy costumed re-enactors from all eras of American history—colonial, Victorian and even modern day—and incorporating lesser known figures, such as Mabel Loomis Todd as well as the more famous, such as Zora Neale Hurston.  The team also began production of the first individual portrait film, on Jane Franklin, Benjamin Franklin’s youngest sister inspired by Jill Lepore’s Book of Ages: The Life and Opinions of Jane Franklin.
-
-This year, we are pursuing two new projects. The first is aimed at telling the history of Belinda Royall, a Ghanaian woman who was kidnapped to the United States and enslaved in a plantation near Tufts. Belinda sued the US government successfully for reparations. The project is centered around The Wayside, the colonial manor of several important authors throughout the years including Louisa May Alcott and a National Heritage Site.
-
+The Half the History Project is being produced by Jennifer Burton/Five Sisters Productions along with a team of students in her Advanced Production Seminar for the fall semester. They are collaborating with local and national organizations to launch Half the History, including the National Collaborative for Women’s History Sites and the Minute Man National Park.
 
 <div class="row">
     <div class="medium-4 columns t30">
@@ -36,11 +31,16 @@ This year, we are pursuing two new projects. The first is aimed at telling the h
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
+<br><br>
+
+Last year, the HTH production team created a short film to launch Half the History, featuring over seventy costumed re-enactors from all eras of American history—colonial, Victorian and even modern day—and incorporating lesser known figures, such as Mabel Loomis Todd as well as the more famous, such as Zora Neale Hurston.  The team also began production of the first individual portrait film, on Jane Franklin, Benjamin Franklin’s youngest sister inspired by Jill Lepore’s Book of Ages: The Life and Opinions of Jane Franklin.
+
+This year, we are pursuing two new projects. The first is aimed at telling the history of Belinda Royall, a Ghanaian woman who was kidnapped to the United States and enslaved in a plantation near Tufts. Belinda sued the US government successfully for reparations. The project is centered around The Wayside, the colonial manor of several important authors throughout the years including Louisa May Alcott and a National Heritage Site.
 
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}/about/emma-painting.png" alt="">
+    <img src="{{ site.urlimg }}/about/emma-painting.png" alt="" height="200">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
