@@ -8,7 +8,7 @@ header:
     image_fullwidth: about/about.jpg
     caption: TODO
     caption_url: https://unsplash.com/
-permalink: "/about/"
+permalink: "about/"
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->

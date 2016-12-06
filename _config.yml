@@ -40,7 +40,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 # urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: 'https://ehnree.github.io/images/'
+urlimg: 'https://ehnree.github.io/HalfTheHistory/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo_white.png"
