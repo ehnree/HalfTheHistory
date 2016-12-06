@@ -1,3 +1,14 @@
+In order to view site:
+	1) CMD+space "Terminal"
+	2) Type "hthsite"
+	3) Type "show"
+	2) Open a browser
+	3) Type "localhost:4000" in address bar
+
+To get changes:
+	1) git pull
+
+
 Instructions for starting web server
 
 1) Fork/Clone Repo

@@ -32,8 +32,8 @@ permalink: "/films/"
 	  </div>
 	  <div class="large-6 columns">
 	  	<h3> Abstract Expressionists </h3>
-	  	Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-	  </div>
+		In this trio of short films, Half the History explores the lives of three female abstract expressionist painters: Elaine de Kooning, Helen Frankenthaler, and Joan Mitchell. As part of the New York School of the 1950s and 1960s, they all contributed immensely to their field of painting.  
+	</div>
 	</div>
 
 	<div class="row">
