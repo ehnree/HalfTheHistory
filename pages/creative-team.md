@@ -54,18 +54,18 @@ permalink: "/creative-team/"
     </div>-->
 
 <div class="row">
-    <div class="medium-3 columns t30">
+    <div class="medium-3 columns">
     <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
     </div><!-- /.medium-3.columns -->
 
-    <div class="medium-3 columns t30">
+    <div class="medium-3 columns">
       <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
     </div><!-- /.medium-3.columns -->
 
-    <div class="medium-3 columns t30">
+    <div class="medium-3 columns">
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-3.columns -->    
-    <div class="medium-3 columns t30">
+    <div class="medium-3 columns">
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-3.columns -->
 
