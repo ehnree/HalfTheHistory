@@ -1,22 +1,36 @@
-List of content:
+General:
 	Logo
 	Favicon
-	Home:
-		Banner page (changing?)
-	Creative Team:
-		Bios
-		Photos of people
-	Production Journal:
-		Blog Posts
-			Text
-			Images
-	See the Videos:
-		Video links
-		Descriptions
-	About Page:
-		Images
-		Text
-	Contact:
-		Text
-		Form
-		Email
+
+Front page:
+	Headline image
+	3 story widgets
+
+About page:
+	Headline image
+	images
+	text
+
+Films page:
+ headline image
+ 	descriptions for each movie
+ 	thumbnail for each movie
+
+Individual film pages:
+	link
+	description
+
+Blog page:
+	headline image
+	side bar
+	some test blog posts (I'll write one for development of jekyll)
+
+Creative team:
+	headline image
+	jennifer description
+	jennifer image
+	other people images + descriptions
+
+Contact page:
+	Contact info
+	(or do we want a form?)

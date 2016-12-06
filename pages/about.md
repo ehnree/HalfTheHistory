@@ -4,7 +4,7 @@ title:  "About Half the History"
 subheadline:  ""
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 header:
-    title: About Half the History
+    title: ""
     image_fullwidth: about/about.jpg
     caption: TODO
     caption_url: https://unsplash.com/
