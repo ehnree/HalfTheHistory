@@ -27,7 +27,7 @@ permalink: "/creative-team/"
         </div><!-- /.small-12.columns -->
     </div>
 
-<div class="row">
+<!-- <div class="row">
 	  <div class="large-6 columns">
 	      <img src="{{ site.urlimg }}creative-team-jennifer.jpg" align="middle">
 	  </div>
@@ -45,8 +45,7 @@ permalink: "/creative-team/"
 	  <div class="large-6 columns">
 	      <img src="http://placehold.it/470x264/e05a10/e1e75e&amp;text=Width+470+Pixel">
 	  </div>
-	</div>
-	<br>
+	</div> -->
 
 <!-- <div class="row">
     <div class="medium-8 columns t30">
