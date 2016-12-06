@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: helen-frankenthaller.jpg
+  image_fullwidth: hth-front.gif
 widget1:
   title: "Belinda\'s Petition"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
