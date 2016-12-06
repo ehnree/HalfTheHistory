@@ -52,20 +52,23 @@ permalink: "/creative-team/"
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}/about/emma-painting.png" alt="" height="200">
     </div>-->
+
 <div class="row">
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person Less important person
+    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      Another less important person Another less important person Another less important person Another less important person Another less important person Another less important person Another less important person Another less important person Another less important person Another less important person
+      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      Least important person  Least important person Least important person Least important person Least important person Least important person Least important person Least important person Least important person Least important person Least important person Least important person Least important person
+      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-4.columns -->
+
 </div><!-- /.row -->
+
+
 </div><!-- /.row -->
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
