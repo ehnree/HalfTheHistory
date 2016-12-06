@@ -21,11 +21,6 @@ permalink: "/creative-team/"
 
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->
-<div class="show-for-large-up">
-    <div class="row">
-        <div class="small-12 columns">
-        </div><!-- /.small-12.columns -->
-    </div>
 
 <!-- <div class="row">
 	  <div class="large-6 columns">
@@ -67,9 +62,6 @@ permalink: "/creative-team/"
     <div class="medium-3 columns">
       <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
     </div><!-- /.medium-3.columns -->
-
-</div><!-- /.row -->
-
 
 </div><!-- /.row -->
 
